@@ -8,7 +8,7 @@ class Assingment_3 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text("DEMO"),
+        title: Text("instagram"),
       ),
       body: Container(
         width: 400,
